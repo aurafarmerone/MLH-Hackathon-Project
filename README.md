@@ -1,8 +1,4 @@
-Here’s a **clean, impressive, GitHub-ready `README.md`** for your project. It highlights the **problem, solution, investigation benefits, and AI pipeline**, making it look **hackathon / portfolio / recruiter friendly**. Think of it as turning hours of dull CCTV footage into a **smart detective timeline**. 🕵️‍♂️📹
 
-You can directly paste this into your `README.md`.
-
----
 
 # 🚨 AI CCTV Intelligence System
 
