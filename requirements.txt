@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+google-genai
+streamlit
+python-dotenv
+pydantic
