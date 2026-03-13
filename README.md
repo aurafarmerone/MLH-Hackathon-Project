@@ -1,5 +1,3 @@
-
-
 # 🚨 AI CCTV Intelligence System
 
 An **AI-powered surveillance analysis platform** that transforms long CCTV footage into a **structured, searchable timeline of events**.
@@ -7,7 +5,6 @@ Instead of manually reviewing **hours of video**, investigators receive **AI-gen
 
 Built using **OpenCV, Gemini Vision API, FastAPI, and Streamlit**.
 
----
 
 # 📌 The Problem
 
@@ -27,7 +24,7 @@ For example:
 
 This process is **time-consuming, inefficient, and prone to human error.**
 
----
+
 
 # 💡 The Solution
 
@@ -41,7 +38,7 @@ Instead of watching hours of footage, users can:
 
 It acts like an **AI investigator for surveillance footage**.
 
----
+
 
 # 🚓 How It Helps Investigations
 
@@ -74,7 +71,7 @@ AI Generated Timeline
 
 This reduces investigation time from **hours → minutes**.
 
----
+
 
 # ✨ Key Features
 
@@ -86,13 +83,12 @@ Upload CCTV footage in formats such as:
 * `.mov`
 * `.avi`
 
----
 
 ### 🎞 Video Frame Processing
 
 Using **OpenCV**, the system extracts frames efficiently for analysis.
 
----
+
 
 ### 🧠 AI Vision Analysis
 
@@ -104,7 +100,7 @@ Powered by **Gemini 2.5 Flash Vision**, the system detects:
 * ⚠ Suspicious movements
 * 🚨 Possible incidents
 
----
+
 
 ### 🕒 Smart Timeline Generation
 
@@ -125,7 +121,6 @@ Example output:
 ]
 ```
 
----
 
 ### 🔎 Natural Language Search
 
@@ -139,7 +134,7 @@ Users can search events like:
 
 The system instantly finds relevant moments.
 
----
+
 
 ### 📊 Interactive Dashboard
 
@@ -151,7 +146,6 @@ A **Streamlit UI dashboard** allows users to:
 * Filter events
 * Search the timeline
 
----
 
 # ⚙️ System Architecture
 
@@ -174,7 +168,6 @@ Timeline Builder
 Search Engine + Dashboard
 ```
 
----
 
 # 🛠 Tech Stack
 
@@ -187,7 +180,7 @@ Search Engine + Dashboard
 | **Streamlit**            | Interactive frontend |
 | **JSON Timeline Engine** | Event structuring    |
 
----
+
 
 # 📂 Project Structure
 
@@ -223,7 +216,7 @@ AI_CCTV_Intelligence_System/
 └── README.md
 ```
 
----
+
 
 # ⚡ Environment Setup
 
@@ -237,7 +230,6 @@ pip
 virtualenv (recommended)
 ```
 
----
 
 ### 2️⃣ Install Dependencies
 
@@ -245,7 +237,6 @@ virtualenv (recommended)
 pip install -r requirements.txt
 ```
 
----
 
 ### 3️⃣ Setup Environment Variables
 
@@ -255,7 +246,7 @@ Create a `.env` file in the root directory.
 GEMINI_API_KEY=your_actual_api_key_here
 ```
 
----
+
 
 # ▶️ Step-by-Step Run Guide
 
@@ -271,7 +262,7 @@ Server will run at:
 http://localhost:8000
 ```
 
----
+
 
 ## Step 2 — Start Frontend Dashboard
 
@@ -287,7 +278,6 @@ Streamlit will open at:
 http://localhost:8501
 ```
 
----
 
 ## Step 3 — Use the System
 
@@ -305,7 +295,7 @@ http://localhost:8501
 * 🕒 Event timeline
 * 🔎 Search results
 
----
+
 
 # 🌍 Real-World Applications
 
@@ -317,7 +307,7 @@ This system can be used in:
 * 🚦 **Traffic accident analysis**
 * 🛑 **Crime detection**
 
----
+
 
 # 🚀 Future Improvements
 
@@ -330,7 +320,6 @@ Possible next upgrades:
 * Crime detection alerts
 * AI-generated incident reports
 
----
 
 # 🧠 Inspiration
 
@@ -338,7 +327,6 @@ Security teams shouldn’t waste hours watching silent video footage.
 
 This project aims to transform CCTV systems from **passive recorders** into **intelligent investigative tools**.
 
----
 
 # ⭐ If You Like This Project
 
